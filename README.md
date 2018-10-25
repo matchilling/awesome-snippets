@@ -1,4 +1,4 @@
-# Awesome snippets
+# Awesome snippets [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 Just another collection of some awesome snippets.
 
